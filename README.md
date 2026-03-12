@@ -44,3 +44,8 @@ Achievements
 CHRISTOVATE 2026: Awarded First Place for innovative application of AI in civil infrastructure.
 
 Developed by Christo Joseph (Lead), Awish Pinto, and Adwaith V Anandh.
+
+Recognition
+🏆 First Place: CHRISTOVATE 2026 (Christ College of Engineering).
+
+Recognized for its potential impact on smart city infrastructure and emergency management.
