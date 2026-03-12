@@ -1,0 +1,7 @@
+{
+  "name": "Intelli-Signal AI Control Center",
+  "description": "A sophisticated React-based traffic management dashboard that uses computer vision logic to adaptively control signal timings across three lanes with emergency vehicle preemption.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
